@@ -7,7 +7,7 @@ import morgan from 'morgan';
 
 app.use(express.json())
 app.get('*', (req, res) => {
-  res.json({hello: 'wolrd'});
+  res.json({hello: 'dawei'});
 });
 
 const port = process.env.PORT || 5000
