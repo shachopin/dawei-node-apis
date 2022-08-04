@@ -1,7 +1,7 @@
-import boggleGameImpl from '../algos/boggleGame.js'
+import boggleGameImpl from "../algos/boggleGame.js";
 
 const problemsMap = {
-  boggleGame: boggleGameImpl
+  boggleGame: boggleGameImpl,
 };
 
 export { problemsMap };
