@@ -19,7 +19,7 @@ const register = async (req, res) => {
       // lastName: user.lastName,
       // location: user.location,
       // name: user.name,
-      myName: 'Dawei Dai'
+      myName: 'Hi Dawei Dai'
     },
     // token,
     // location: user.location,
